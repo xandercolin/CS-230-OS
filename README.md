@@ -1,6 +1,6 @@
 # CS-230-
 
-Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?\n
 **The gaming room wanted their game to be distributed online to multiple players. They needed their program to support this.**
 What did you do particularly well in developing this documentation?
 **I did particularly well in implementing the design patterns that allowed multiple games to be created with unique IDs**
